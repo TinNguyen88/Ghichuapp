@@ -1,0 +1,6 @@
+{
+  "name": "Vault",
+  "description": "Dual-workspace cryptographic vault featuring real/duress PINs, Diceware generator, and volatile RAM zeroing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
